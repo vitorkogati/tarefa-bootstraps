@@ -1,0 +1,11 @@
+#carousel-exemplo{
+    margin-bottom: 5%;
+}
+
+.card{
+    margin-bottom: 5%;
+}
+
+.card-img-overlay{
+    background-color: rgba(0,0,0,0.5)
+}
